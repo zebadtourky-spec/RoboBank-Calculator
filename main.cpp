@@ -1,5 +1,6 @@
 #include <iostream>
-#include "Bank.h"
+#include "source.h"
+#include <string>
 using namespace std;
 int main()
 { int Choice;
