@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1759178451 source:c:\users\user\desktop\robobankcalculator\cal.cpp
+	"cal.h"
+	<cmath>
+	<string>
+	<map>
+
+1759178451 c:\users\user\desktop\robobankcalculator\cal.h
+	<string>
+	<map>
+
+1759178451 source:c:\users\user\desktop\robobankcalculator\main.cpp
+	<iostream>
+	<string>
+	<map>
+	"cal.h"
+
